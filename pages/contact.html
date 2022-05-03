@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ile de la Réunion</title>
+    <link rel="stylesheet" href="../css/reset.css" />
+    <link rel="stylesheet" href="../style.css" />
+    <link rel="stylesheet" href="contact.css" />
+  </head>
+  <body>
+    <!-- Header start -->
+    <header>
+      <nav>
+        <a href="#">
+          <img
+            src="../assets/icons/icon-recette.png"
+            alt="Icone livre de recette"
+          />
+          <span class="nav-text">Recettes</span>
+        </a>
+        <a href="#">
+          <img
+            src="../assets/icons/icon-rhum.png"
+            alt="Icone livre de recette"
+          />
+          <span class="nav-text">Rhum</span>
+        </a>
+        <a href="./pages/contact.html">
+          <img
+            src="../assets/icons/icon-contact2.png"
+            alt="Icone livre de recette"
+          />
+          <span class="nav-text">Contact</span>
+        </a>
+      </nav>
+    </header>
+    <!-- Header end -->
+
+    <!-- Main start -->
+    <main>
+      <section class="banner">
+        <img src="../assets/images/banner.jpg" alt="Image de montagne" />
+        <h1>Ile de la Réunion</h1>
+      </section>
+
+      <section class="section-form">
+        <form action="">
+          <h2>Contact</h2>
+          <div class="input-container">
+            <label for="name">Votre nom (Obligatoire)</label>
+            <input type="text" name="name" required="required" />
+          </div>
+          <div class="input-container">
+            <label for="email">Votre email (Obligatoire)</label>
+            <input type="email" name="email" - required="required" />
+          </div>
+          <div class="input-container">
+            <label for="subject">Sujet</label>
+            <input type="text" name="subject" />
+          </div>
+          <div class="input-container">
+            <label for="message">Votre message</label>
+            <textarea name="message"></textarea>
+          </div>
+          <button>Envoyez</button>
+        </form>
+      </section>
+    </main>
+    <!-- Main end -->
+
+    <!-- Footer start -->
+    <footer>
+      <p>
+        Made with
+        <span>&hearts;</span>
+        <b>Uriel SAUTRON © 2022 - Wild Code School</b>
+      </p>
+    </footer>
+    <!-- Footer end -->
+
+    <div class="fix-navtab"></div>
+
+    <script src="index.js" defer></script>
+  </body>
+</html>
