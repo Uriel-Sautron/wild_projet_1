@@ -15,7 +15,7 @@ nav {
   bottom: 0;
   left: 0;
   padding: 0.5rem 1rem;
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(2, 56, 123, 0.8);
   width: 100%;
 }
 
@@ -32,16 +32,55 @@ a > img {
   display: none;
 }
 
+main {
+  width: 100%;
+}
+
+/* Section */
+section:not(.banner) {
+  padding: 2rem 1rem 0 1rem;
+}
+
+/* Section Banner */
+.banner {
+  position: sticky;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 10rem;
+}
+
+.banner > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.banner > h1 {
+  position: absolute;
+  width: auto;
+  bottom: 0;
+  right: 1rem;
+  font-size: 2.5em;
+  font-weight: bold;
+  color: #fff;
+  text-shadow: 0 0 10px #000;
+}
+
 /* Footer */
 footer {
   width: 100%;
   height: 3rem;
-  background-color: rgb(67, 62, 62);
+  background-color: rgba(2, 56, 123, 0.8);
   margin-top: 2rem;
   color: white;
   display: flex;
   align-items: center;
   justify-content: center;
+  padding: 0 1rem;
 }
 
 .fix-navtab {
@@ -51,8 +90,58 @@ footer {
 
 footer > p {
   font-size: 0.85rem;
+  text-align: justify;
 }
 
 footer span {
   color: red;
+}
+
+/* Media Queries */
+
+@media (min-width: 768px) {
+  /* Navbar */
+  nav {
+    position: absolute;
+    top: 0;
+    z-index: 5;
+    height: 5rem;
+    background-color: rgba(255, 255, 255, 0.5);
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding-right: 1.5rem;
+  }
+
+  .nav-text {
+    display: initial;
+    color: black;
+    font-weight: bold;
+    margin-left: 1.5rem;
+  }
+
+  nav img {
+    display: none;
+  }
+
+  /* Section Banner */
+  .banner {
+    position: relative;
+    height: 30rem;
+  }
+
+  .banner > img {
+    position: inherit;
+  }
+
+  .banner > h1 {
+    right: 1.5rem;
+  }
+
+  /* Footer */
+  .fix-navtab {
+    display: none;
+  }
+}
+
+@media (min-width: 1440px) {
 }
