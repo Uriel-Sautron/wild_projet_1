@@ -1,0 +1,382 @@
+[
+  {
+    "title": "Cari bichiques",
+    "img": "",
+    "category": "Cari",
+    "ingredients": [
+      "1,250 kg de bichiques",
+      "3 oignons",
+      "6 petites tomates",
+      "6 gousses d'ail",
+      "1 branche de thym",
+      "2 piments",
+      "1 cuillère à café de curcuma",
+      "Un morceau de gingembre",
+      "Huile",
+      "Sel"
+    ],
+    "preparation": [
+      "Lavez plusieurs fois les bichiques puis les égoutter",
+      "Émincez les oignons et coupez les tomates en petits morceaux",
+      "Pilez l'ail avec le gingembre et les piments avec une bonne pincée de sel",
+      "Faites revenir les oignons avec un peu d'huile dans une marmite et ajoutez le mélange pilé, au bout de deux minutes ajoutez les morceaux de tomate, le curcuma et le thym",
+      "Laissez cuire à feu moyen pendant 6 minutes et à couvert",
+      "Ajoutez les bichiques et faites mijoter à feux doux pendant 1/4 heure",
+      " A la fin de la cuisson, il ne doit pas y avoir trop de sauce",
+      "Servez chaud"
+    ],
+    "numberofPerson": 4
+  },
+  {
+    "title": "Cari de boeuf",
+    "img": "",
+    "category": "Cari",
+    "ingredients": [
+      "1,250 kg de de bœuf",
+      "3 tomates",
+      "5 petits oignons",
+      "6 gousses d'ail",
+      "2 cuillères d'huile d'olive",
+      "Un petit morceau de gingembre",
+      "Huile",
+      "Sel",
+      "Poivre"
+    ],
+    "preparation": [
+      "Coupez la viande de bœuf en morceaux",
+      "Émincez les oignons et coupez les tomates en petits morceaux",
+      "Émincez les oignons",
+      "Pilez ensemble, l'ail, le gingembre, le sel et le poivre",
+      "Coupez les tomates en petits morceaux",
+      "Faites revenir dans une marmite avec un peu d'huile la viande puis y ajouter les oignons",
+      "Après 5 minutes rajouter la préparation pilée, et pour terminer les morceaux de tomates et le thym",
+      "Laissez cuire 5 minutes à feux doux, puis ajoutez de l'eau à hauteur",
+      "Dés ébullition baissez à feu doux et laissez cuire jusqu'à évaporation",
+      "Il faut que la sauce soit onctueuse",
+      "Servez chaud"
+    ],
+    "numberofPerson": 4
+  },
+  {
+    "title": "Cari canard",
+    "img": "",
+    "category": "Cari",
+    "ingredients": [
+      "1 canard",
+      "5 oignons",
+      "6 gousses d'ail",
+      "6 petites tomates",
+      "1 piments",
+      "1/2 cuillère à café de curcuma",
+      "1 morceau de gingembre",
+      "1 branche de thym",
+      "Sel"
+    ],
+    "preparation": [
+      "Coupez le canard en morceaux",
+      "Émincez les oignons",
+      "Découpez les tomates en dès",
+      "Pilez ensemble l'ail, les piments, le gingembre, et le sel",
+      "Mettez les morceaux de canard et faites les dorer à l'huile dans une cocotte à fond épaisse pour lui faire rendre toute sa graisse",
+      "Quand les morceaux ont pris une belle couleur, vider le maximum de matière grasse, garder seulement la quantité nécessaire pour y jouter les oignons émincés, faites-les blondir",
+      "Ajoutez votre mélange pilé, bien mélanger avec une spatule en bois et faire revenir quelques instants",
+      "Ajoutez les tomates en dès pour les faire réduire et le curcuma",
+      "Ajoutez de l'eau à hauteur et la branche de thym, Laissez mijoter à feu doux jusqu'à ce que la viande se détache facilement des os, environ 30 minutes",
+      "Rajoutez de l'eau en cours de cuisson si nécessaire",
+      "Servez chaud"
+    ],
+    "numberofPerson": 4
+  },
+  {
+    "title": "Cari oeufs",
+    "img": "",
+    "category": "Cari",
+    "ingredients": [
+      "4 oeufs",
+      "3 oignons",
+      "4 gousses d'ail",
+      "4 tomates",
+      "2 piments",
+      "1/2 cuillère à café de curcuma",
+      "1 morceau de gingembre",
+      "Huile",
+      "Sel"
+    ],
+    "preparation": [
+      "Faire cuire les oeufs 10 minutes dans l'eau bouillante, les écaler, les couper en deux dans le sens de la longueur",
+      "Émincez les oignons, Coupez les tomates en dès",
+      "Pilez ensemble l'ail, les piments, le gingembre, et le sel",
+      "Dans votre marmite, dorez les oignons avec de d'huile, ajoutez ensuite votre mélange pilé, le curcuma et les tomates en dès",
+      "Laissez cuire en remuant 4 à 5 minutes",
+      "Ajoutez un verre d'eau et laissez réduire un quart d'heure à feu doux",
+      "Ajoutez les oeufs durs coupés en deux et faire mijoter une dizaine de minutes en remuant régulièrement et doucement",
+      "Servez chaud"
+    ],
+    "numberofPerson": 4
+  },
+  {
+    "title": "Cari Poulet",
+    "img": "",
+    "category": "Cari",
+    "ingredients": [
+      "1 poulet Fermier",
+      "4 oignons",
+      "4 tomates",
+      "6 gousses d'ail",
+      "3 piments",
+      "1 branche de thym",
+      "1 cuillère à café de curcuma",
+      "Huile",
+      "Sel"
+    ],
+    "preparation": [
+      "Découpez le poulet en petit morceaux",
+      "Émincez les oignons",
+      "Pilez l'ail, les piments avec une pincée de sel",
+      "Faites dorer les morceaux de poulet avec de l'huile dans une marmite, Ajoutez les oignons émincés faites revenir 3 minutes",
+      "Ajoutez votre mélange pilé, mélangez",
+      "Par la suite ajoutez les dès de tomates à votre préparation et la branche de thym",
+      "Une fois les tomates cuites, mettre de l'eau à hauteur et faites cuire à feux doux",
+      "En fin de cuisson 45 minutes environ il doit rester un fond de sauce",
+      "Servez chaud"
+    ],
+    "numberofPerson": 4
+  },
+  {
+    "title": "Cari Thon",
+    "img": "",
+    "category": "Cari",
+    "ingredients": [
+      "1,2 kg de thon",
+      "8 petites tomates",
+      "6 gousses d'ail",
+      "3 oignons",
+      "2 piments",
+      "1 branche de thym",
+      " Un morceau de gingembre",
+      "1 cuillère à café de curcuma",
+      " Huile",
+      "Sel"
+    ],
+    "preparation": [
+      "Coupez le thon en petits morceaux",
+
+      "Émincez les oignons",
+
+      "Coupez les tomates en petits morceaux",
+
+      "Pilez ensemble l'ail, le gingembre, les piments, le sel",
+
+      "Faites roussir les oignons dans une marmite avec de l'huile",
+
+      "Ajoutez le mélange pilé avec le thym",
+
+      "3 minutes après rajoutez les morceaux de tomates, le curcuma, et un verre d'eau et faites cuire le tout à feu moyen 5 minutes",
+
+      " Ajoutez le thon en remuant délicatement et laissez cuire à couvert environ 15 minutes",
+      "Il faut qu'il reste un fond de sauce. Si nécessaire ajoutez un peu d'eau pendant la cuisson",
+
+      "Servez chaud"
+    ],
+    "numberofPerson": 4
+  },
+  {
+    "title": "Canard à la vanille",
+    "img": "",
+    "category": "Cari",
+    "ingredients": [
+      "1 canard",
+      "2 gousses de vanille",
+      "4 gousses d'ail",
+      "4 petites tomates",
+      "1 piment",
+      "1/2 cuillère à café de curcuma",
+      "1 morceau de gingembre",
+      "1 branche de thym",
+      "Sel",
+      " Poivre"
+    ],
+    "preparation": [
+      "Découpez le canard, salez, poivrez, mettez-le dans une cocotte",
+      "Faites dorer les morceaux de canard dans de l'huile chaude puis ôtez l'excédent d'huile",
+      "Émincez les oignons",
+      "Pilez ensemble l'ail, le piment, le gingembre",
+      "Fendez en deux les gousses de vanille",
+      "Découpez les tomates en dès",
+      "Faites roussir les oignons dans la marmite, ensuite ajoutez votre mélange pilé, bien mélanger, laissez mijoter 3 minutes avant de rajouter, les tomates, le curcuma, la vanille, Laissez mijoter de nouveau 4 minutes en tournant régulièrement",
+      "Ajoutez les morceaux de canard, de l'eau chaude à hauteur des ingrédients et la branche de thym",
+      "Salez selon votre goût",
+      "Couvrez la marmite et laissez 1h15 a feu doux jusqu'à obtention d'une sauce onctueuse",
+      "Servir chaud"
+    ],
+    "numberofPerson": 4
+  },
+  {
+    "title": "Emincé de Porc à l'ananas",
+    "img": "",
+    "category": "Sauté",
+    "ingredients": [
+      "800 gr de filet de porc",
+      "4 petits ananas victoria",
+      "1 cuillère à soupe de beurre",
+      "5 cl d'huile",
+      "Sel et Poivre",
+      "3 cuillères à soupe de sucre de canne",
+      "10 cl de vinaigre",
+      "1 cube de fond de boeuf"
+    ],
+    "preparation": [
+      "Tranchez dans le sens de la longueur les ananas 1/3 - 2/3, les évidez et réservez les écorces pour la présentation. Coupez la chair des ananas en petits cubes",
+
+      "Emincez le filet de porc en bâtonnets",
+
+      "Dans une poêle faites revenir à feu vif le porc émincé dans un mélange de beurre et d'huile, salez, poivrez",
+
+      "Réservez l'émincé de porc et versez le sucre dans votre poêle de cuisson. Laissez caraméliser à feu doux en remuant sans cesse. Veuillez à ne pas laisser brûler le caramel qui donnerait un goût amer à votre plat",
+
+      "Lorsque le caramel atteint une belle couleur rousse ambrée, versez le vinaigre puis incorporez la chair d'ananas coupée en petits dès et laisser cuire doucement. Laissez bien confire l'ananas, il va donner du jus que vous devrez laisser évaporez de moitié",
+
+      "Lorsque l'ananas est confit, versez le cube de boeuf délayé dans 10 cl d'eau",
+
+      "Ajoutez l'émincé de porc, laissez cuire à feu doux",
+
+      "Garnissez les coques des ananas de votre préparation, servez aussitôt bien chaud"
+    ],
+    "numberofPerson": 4
+  },
+  {
+    "title": "Gratin de pâtisson créole",
+    "img": "",
+    "category": "Gratin",
+    "ingredients": [
+      "1 kg de Pâtisson",
+      "250 g de lardons fumés",
+      "250 g de pommes de terre",
+      "150 g de gruyère râpé",
+      "20 cl de crème fraîche liquide",
+      "1 oignon",
+      "2 gousses d'ail",
+      "1 piment",
+      "Sel",
+      "Huile"
+    ],
+    "preparation": [
+      "Coupez en 4 les pâtissons, enlevez les graines à l'aide d'une cuillère à café. Puis peler les pâtissons et en faire des lanières avec un économe ou à l'aide d'un robot. Réservez",
+
+      "Émincez l'oignon",
+
+      "Pilez ensemble, le piment, les 2 gousses d'ail",
+
+      "Épluchez les pommes de terre, coupez les en rondelles. Ajouter les pommes de terre épluchées et coupées en rondelles",
+
+      "Dans une poêle, faites revenir les lardons, avec l'oignon émincé dans un peu d'huile",
+
+      "Ajoutez les pommes de terre et un peu d'huile, faites rissoler",
+
+      "Ajoutez ensuite les lanières des pâtissons et laissez cuire environ 5 minutes",
+
+      "Dans un plat à gratin mettez le contenu de votre poêle, ajoutez 100 g de gruyère râpé, le piment et l'ail pilés, la crème fraîche, salez légèrement, attention les lardons et le râpé sont salés, mélangez",
+
+      "Parsemez votre plat du reste de gruyère râpé",
+
+      "Mettez au four à 220/250°C pendant environ 30 minutes",
+
+      "Servez chaud"
+    ],
+    "numberofPerson": 4
+  },
+  {
+    "title": "Rougail morue",
+    "img": "",
+    "category": "Rougail",
+    "ingredients": [
+      "1 kg de morue séchée",
+      "8 petites tomates",
+      "4 oignons",
+      "6 gousses d'ail",
+      "2 piments",
+      "1 piment poivron",
+      "1 morceau de gingembre",
+      "1 branche de thym",
+      "Huile"
+    ],
+    "preparation": [
+      "Coupez la morue en gros morceaux et lavez-la plusieurs fois pour enlever le sel",
+
+      "Émiettez-la en enlevant les arrêtes",
+
+      "Émincez les oignons et le piment poivron",
+
+      "Coupez les tomates en morceaux",
+
+      "Pilez ensemble le gingembre et les piments",
+
+      "Faites cuire dans une marmite la morue dans deux cuillères à soupe d'huile en tournant sans cesse pour éviter qu'elle n'attache. Elle doit dorer mais jamais durcir",
+
+      "Au bout de 5 minutes ajoutez les oignons et le gros piment puis continuez à cuire pendant 4 minutes",
+
+      "Ajoutez le mélange pilé, puis 2 minutes après le thym et les tomates",
+
+      "Mélangez puis laissez cuire le tout pendant 10 minutes à couvert",
+      "Servez chaud"
+    ],
+    "numberofPerson": 4
+  },
+  {
+    "title": "Thon massalé",
+    "img": "",
+    "category": "Cari",
+    "ingredients": [
+      "1,5 kg de thon",
+      "6 petites tomates",
+      "3 gros oignons",
+      "1 tête d'ail",
+      "3 cuillères à soupe de massalé",
+      "1 cuillère à café de curcuma",
+      "1 branche de thym",
+      "2 Piments",
+      "Huile",
+      "Sel"
+    ],
+    "preparation": [
+      "Coupez le thon en gros dés puis faites revenir les morceaux dans de l'huile chaude pendant environ 5 minutes puis enlevez le tout",
+      "Émincez les oignons",
+      "Coupez les tomates en petits morceaux",
+      "Pilez ensemble l'ail, les piments, le sel",
+      "Faites revenir les oignons 3 minutes puis ajoutez le mélange pilé ainsi que le curcuma",
+      "Au bout de 2 minutes ajoutez les morceaux de tomates, le thym le massalé puis faites cuire 3 minutes",
+      "Ajoutez le thon ainsi qu'un verre d'eau chaude et faites cuire à couvert 15 minutes environs",
+      "Il faut que la sauce soit onctueuse"
+    ],
+    "numberofPerson": 4
+  },
+  {
+    "title": "Rougail saucisse",
+    "img": "",
+    "category": "Rougail",
+    "ingredients": [
+      "6 saucisses de porc",
+      "4 oignons",
+      "6 gousses d'ail",
+      "6 petites tomates",
+      "1 branche de thym",
+      "1 piment",
+      "2 cuillères d'huile d'olive",
+      "1/2 petite cuillère de safran pays",
+      "Sel"
+    ],
+    "preparation": [
+      "Piquez les saucisses à l'aide d'une fourchette et faites les bouillir pour bien enlever le gras",
+      "Égouttez et coupez les saucisses en tronçons de 3 cm environs",
+      "Émincez les oignons",
+      "Coupez les tomates en dès",
+      "Pilez ensemble le piment, l'ail et le sel",
+      "Faites roussir dans une marmite avec un peu d'huile les oignons émincés",
+      "Ajoutez votre mélange pilé, laissez mijoter 3 minutes et rajoutez les dès de tomates et le safran",
+      "Lorsque le mélange devient pâteux, ajoutez les tronçons de saucisses la branche de thym et couvrez avec de l'eau chaude à hauteur des ingrédients",
+      "Laissez mijoter à feu doux pendant 30 minutes environ. Si nécessaire ajoutez de l'eau chaude pendant la cuisson",
+      "Servez chaud"
+    ],
+    "numberofPerson": 4
+  }
+]
