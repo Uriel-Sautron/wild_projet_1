@@ -1,0 +1,361 @@
+[
+  {
+    "title": "Rhum arrangé ananas",
+    "img": "",
+    "ingredients": [
+      "1 Ananas victoria",
+      "2 litres de rhum blanc",
+      "5 cuillères à soupe de sucre roux",
+      "2 cuillères à soupe de miel"
+    ],
+    "preparation": [
+      "Lavez l'ananas et le découpez en morceaux ( ne pas enlever la peau )",
+      "Mettre les ingrédients dans le bocal, les morceaux d'ananas, les 5 cuillères à soupe de sucre roux, et les 2 cuillères à soupe de miel",
+      "Versez le rhum",
+      "Laissez macérer pendant 3 mois, dans un endroit frais et à l'abri de la lumière",
+      "Le rhum arrangé se conserve pendant des années"
+    ],
+    "numberofLiter": 2
+  },
+
+  {
+    "title": "Rhum arrangé aux épices",
+    "img": "",
+    "ingredients": [
+      "5 bâtons de cannelle séchée",
+      "20 grains de poivre noir",
+      "10 clous de girofle",
+      "1 pincée de cumin",
+      " 1/4 de noix de muscade",
+      "2 piments rouges",
+      "1 morceau de gingembre",
+      "5 cuillères à soupe de sucre roux"
+    ],
+    "preparation": [
+      "Attention cette préparation de rhum arrangé aux épices est forte",
+      "Mettre les ingrédients dans le bocal",
+      "Versez le rhum",
+      "Laissez macérer pendant 3 mois, dans un endroit frais et à l'abri de la lumière",
+      "Le rhum arrangé se conserve pendant des années"
+    ],
+    "numberofLiter": 2
+  },
+
+  {
+    "title": "Rhum arrangé banane",
+    "img": "",
+    "ingredients": [
+      "4 Bananes",
+      "2 litres de rhum blanc",
+      "6 cuillères à soupe de sucre roux"
+    ],
+    "preparation": [
+      "Pelez et coupez les bananes en 4 ou plus dans la longueur",
+      "Mettre les ingrédients dans le bocal, les morceaux de bananes et les 6 cuillères à soupe de sucre roux",
+      "Versez le rhum",
+      "Laissez macérer pendant 3 mois, dans un endroit frais et à l'abri de la lumière",
+      "Le rhum arrangé se conserve pendant des années"
+    ],
+    "numberofLiter": 2
+  },
+
+  {
+    "title": "Rhum arrangé bibasse",
+    "img": "",
+    "ingredients": [
+      " 20 Bibasses",
+      "2 litres de rhum blanc",
+      "6 cuillères à soupe de sucre roux"
+    ],
+    "preparation": [
+      "Lavez les bibasses (nèfle du Japon), ouvrez les bibasses en deux. Enlevez les pépins",
+      "Mettre les ingrédients dans le bocal, les bibasses et 6 cuillères à soupe de sucre roux",
+      "Versez le rhum",
+      "Laissez macérer pendant 3 mois, dans un endroit frais et à l'abri de la lumière",
+      "Le rhum arrangé se conserve pendant des années"
+    ],
+    "numberofLiter": 2
+  },
+
+  {
+    "title": "Rhum arrangé café vanille",
+    "img": "",
+    "ingredients": [
+      "60 grains de Café Bourbon pointu",
+      "2 gousses de vanille",
+      "2 litres de rhum blanc",
+      "6 cuillères à soupe de sucre roux"
+    ],
+    "preparation": [
+      "Fendez en deux les gousses de vanille",
+      "Mettre les ingrédients dans le bocal, les grains de café, 6 cuillères à soupe de sucre roux et la vanille",
+      "Versez le rhum",
+      "Laissez macérer pendant 3 mois, dans un endroit frais et à l'abri de la lumière",
+      "Le rhum arrangé se conserve pendant des années"
+    ],
+    "numberofLiter": 2
+  },
+
+  {
+    "title": "Rhum arrangé citron gingembre",
+    "img": "",
+    "ingredients": [
+      "4 citrons verts. Citronnier 4 Saisons",
+      "200 gr de gingembre frais",
+      "2 litres de rhum blanc",
+      "6 cuillères à soupe de sucre roux"
+    ],
+    "preparation": [
+      "Nettoyer les citrons et les couper en 4",
+      "Lavez le gingembre. Coupez le gingembre en petit morceaux",
+      "Dans le bocal mettre les ingrédients, les morceax de citrons, les morceaux de gingembre et le sucre",
+      "Versez le rhum",
+      "Laissez macérer pendant 3 mois, dans un endroit frais et à l'abri de la lumière",
+      "Le rhum arrangé se conserve pendant des années"
+    ],
+    "numberofLiter": 2
+  },
+
+  {
+    "title": "Rhum arrangé fraise vanille",
+    "img": "",
+    "ingredients": [
+      "500 gr de Fraises",
+      "2 gousses de vanille",
+      "2 litres de rhum blanc",
+      "3 cuillères à soupe de sirop de canne",
+      "6 cuillères à soupe de sucre roux"
+    ],
+    "preparation": [
+      "Lavez les fraises. Coupez-les fraises en 2",
+      "Fendez en deux les gousses de vanille",
+      "Mettre les ingrédients dans le bocal, les morceaux de fraise, la vanille, 3 cuillères à soupe de sirop de canne et 6 cuillères à soupe de sucre roux",
+      "Versez le rhum",
+      "Laissez macérer pendant 3 mois, dans un endroit frais et à l'abri de la lumière",
+      "Le rhum arrangé se conserve pendant des années"
+    ],
+    "numberofLiter": 2
+  },
+
+  {
+    "title": "Rhum arrangé fruits de la passion",
+    "img": "",
+    "ingredients": [
+      "5 fruits de la passion",
+      "2 litres de rhum blanc",
+      "6 cuillères à soupe de sucre roux",
+      "4 cuillères à soupe de sirop de canne"
+    ],
+    "preparation": [
+      "Lavez les fruits de la passion, coupez en deux les fruits de la passion",
+      "Récupérez à l'aide d'une cuillère la pulpe",
+      "Mettre les ingrédients dans le bocal, la pulpe des fruits de la passion, 6 cuillères à soupe de sucre roux, 4 cuillères à soupe de sirop de canne",
+      "Versez le rhum",
+      "Laissez macérer pendant 3 mois, dans un endroit frais et à l'abri de la lumière",
+      "Le rhum arrangé se conserve pendant des années"
+    ],
+    "numberofLiter": 2
+  },
+
+  {
+    "title": "Rhum arrangé letchi",
+    "img": "",
+    "ingredients": [
+      " 1 trentaine de Letchis",
+      "2 litres de rhum blanc",
+      "5 cuillères à soupe de sucre roux",
+      "2 cuillères à soupe de miel"
+    ],
+    "preparation": [
+      "Enlevez la peau des letchis ainsi que le noyau",
+      "Mettre les ingrédients dans le bocal, les letchis, 5 cuillères à soupe de sucre roux et 2 cuillères à soupe de miel",
+      "Versez le rhum",
+      "Laissez macérer pendant 3 mois, dans un endroit frais et à l'abri de la lumière",
+      "Le rhum arrangé se conserve pendant des années"
+    ],
+    "numberofLiter": 2
+  },
+
+  {
+    "title": "Rhum arrangé mangue",
+    "img": "",
+    "ingredients": [
+      "4 Mangues",
+      "2 litres de rhum blanc",
+      "6 cuillères à soupe de sucre roux"
+    ],
+    "preparation": [
+      "Épluchez 2 mangues enlevez le noyau et coupez en tranches, épluchez les 2 autres mangues, les laisser entières",
+      "Mettre les ingrédients dans le bocal, les mangues et 6 cuillères à soupe de sucre roux",
+      "Versez le rhum",
+      "Laissez macérer pendant 3 mois, dans un endroit frais et à l'abri de la lumière",
+      "Le rhum arrangé se conserve pendant des années"
+    ],
+    "numberofLiter": 2
+  },
+
+  {
+    "title": "Rhum arrangé menthe",
+    "img": "",
+    "ingredients": [
+      "30 feuilles de menthe fraîche",
+      "2 litres de rhum blanc",
+      "8 cuillères à soupe de sucre roux"
+    ],
+    "preparation": [
+      " Laver les feuilles de menthe et les sécher",
+      "Mettre les ingrédients dans le bocal, les feuilles de menthe et 8 cuillères à soupe de sucre roux",
+      "Versez le rhum",
+      "Laissez macérer pendant 3 mois, dans un endroit frais et à l'abri de la lumière",
+      "Le rhum arrangé se conserve pendant des années"
+    ],
+    "numberofLiter": 2
+  },
+
+  {
+    "title": "Rhum arrangé Noix de coco",
+    "img": "",
+    "ingredients": [
+      " Une noix de coco",
+      "2 litres de rhum blanc",
+      "6 cuillères à soupe de sucre roux",
+      "1 gousse de vanille (facultatif)"
+    ],
+    "preparation": [
+      "Fendez la noix de coco en deux et découpez la pulpe blanche en morceaux",
+      "Fendez en deux la gousse de vanille",
+      "Dans le bocal mettre les ingrédients la pulpe de noix de coco, le sucre et la vanille",
+      "Versez le rhum",
+      "Laissez macérer pendant 3 mois, dans un endroit frais et à l'abri de la lumière",
+      "Le rhum arrangé se conserve pendant des années"
+    ],
+    "numberofLiter": 2
+  },
+
+  {
+    "title": "Rhum arrangé pêche",
+    "img": "",
+    "ingredients": [
+      "6 Pêches",
+      "2 litres de rhum blanc",
+      "8 cuillères à soupe de sucre roux"
+    ],
+    "preparation": [
+      "Épluchez les pêches. Coupez les en deux. Enlevez le noyau, et recoupez en deux",
+      "Mettre les ingrédients dans le bocal, les pêches et 8 cuillères à soupe de sucre roux",
+      "Versez le rhum",
+      "Laissez macérer pendant 3 mois, dans un endroit frais et à l'abri de la lumière",
+      "Le rhum arrangé se conserve pendant des années"
+    ],
+    "numberofLiter": 2
+  },
+
+  {
+    "title": "Rhum arrangé piment",
+    "img": "",
+    "ingredients": ["8 piments ( + ou - ) Piments", "2 litres de rhum blanc"],
+    "preparation": [
+      "Lavez les piments",
+      "Mettre les piments dans le bocal",
+      "Versez le rhum",
+      "Laissez macérer pendant 3 mois, dans un endroit frais et à l'abri de la lumière",
+      "Le rhum arrangé se conserve pendant des années"
+    ],
+    "numberofLiter": 2
+  },
+
+  {
+    "title": "Rhum arrangé Pitahaya ou pitaya",
+    "img": "",
+    "ingredients": [
+      "3 Pitahaya ou pitaya",
+      "2 litres de rhum blanc",
+      "8 cuillères à soupe de sucre roux"
+    ],
+    "preparation": [
+      "Épluchez les pitahaya. Découpez les fruits en gros morceaux",
+      "Mettre les ingrédients dans le bocal, les morceaux de pitahaya et 8 cuillères à soupe de sucre roux",
+      "Versez le rhum",
+      "Laissez macérer pendant 3 mois, dans un endroit frais et à l'abri de la lumière",
+      "Le rhum arrangé se conserve pendant des années"
+    ],
+    "numberofLiter": 2
+  },
+
+  {
+    "title": "Rhum arrangé poire pomme vanille",
+    "img": "",
+    "ingredients": [
+      "6 poires",
+      "3 pommes",
+      "2 gousses de vanille",
+      "3 cuillères à soupe de sirop de canne",
+      "6 cuillères à soupe de sucre roux"
+    ],
+    "preparation": [
+      "Lavez les poires, laissez la peau, coupez les poires en quatre et enlevez le coeur avec les pépins",
+      "Lavez les pommes, laissez la peau, coupez les pommes en quatre et enlevez le coeur avec les pépins",
+      "Fendez en deux les gousses de vanille",
+      "Mettre les ingrédients dans le bocal, les poires, les pommes, les gousses de vanille, 3 cuillères à soupe de sirop de canne et 6 cuillères à soupe de sucre roux",
+      "Versez le rhum",
+      "Laissez macérer pendant 3 mois, dans un endroit frais et à l'abri de la lumière",
+      "Le rhum arrangé se conserve pendant des années"
+    ],
+    "numberofLiter": 2
+  },
+
+  {
+    "title": "Rhum arrangé tamarin",
+    "img": "",
+    "ingredients": [
+      "1 kg de Tamarin murs",
+      "2 litres de rhum blanc",
+      "6 cuillères à soupe de sirop de canne",
+      "2 cuillères à soupe de miel"
+    ],
+    "preparation": [
+      "Cassez les gousses de tamarin pour récupérez la chair",
+      "Mettre les ingrédients dans le bocal, le tamarin, 6 cuillères à soupe de sirop de canne et 2 cuillères à soupe de miel",
+      "Versez le rhum",
+      "Laissez macérer pendant 3 mois, dans un endroit frais et à l'abri de la lumière",
+      "Le rhum arrangé se conserve pendant des années"
+    ],
+    "numberofLiter": 2
+  },
+
+  {
+    "title": "Rhum arrangé vanille",
+    "img": "",
+    "ingredients": [
+      "5 gousses de vanille",
+      "2 litres de rhum blanc",
+      "6 cuillères à soupe de sucre roux"
+    ],
+    "preparation": [
+      "Fendez en deux les gousses de vanille",
+      "Mettre les ingrédients dans le bocal, les gousses de vanille et 6 cuillères à soupe de sucre roux",
+      "Versez le rhum",
+      "Laissez macérer pendant 3 mois, dans un endroit frais et à l'abri de la lumière",
+      "Le rhum arrangé se conserve pendant des années"
+    ],
+    "numberofLiter": 2
+  },
+
+  {
+    "title": "Rhum arrangé grenade",
+    "img": "",
+    "ingredients": [
+      "4 grenades",
+      "2 litres de rhum blanc",
+      "6 cuillères à soupe de sucre roux"
+    ],
+    "preparation": [
+      "Ouvrez les grenades en deux et récupérez les pépins",
+      "Dans le bocal mettre les ingrédients, les pépins de grenades et le sucre",
+      "Versez le rhum",
+      "Laissez macérer pendant 3 mois, dans un endroit frais et à l'abri de la lumière",
+      "Le rhum arrangé se conserve pendant des années"
+    ],
+    "numberofLiter": 2
+  }
+]
