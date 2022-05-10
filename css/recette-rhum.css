@@ -43,6 +43,13 @@ li {
   .card {
     display: flex;
   }
+  .card:nth-child(even) {
+    flex-direction: row-reverse;
+  }
+
+  .card:nth-child(even) .card-rhum-header {
+    box-shadow: -9px 0 0 rgba(2, 56, 123, 0.8);
+  }
 
   .card-rhum-header {
     height: auto;
@@ -57,5 +64,17 @@ li {
 
   .card-rhum-body {
     width: 60%;
+  }
+}
+
+@media (min-width: 1440px) {
+  .section-recipes-rhum {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1rem;
+  }
+
+  .card:nth-child(2) {
+    margin-top: 0;
   }
 }
