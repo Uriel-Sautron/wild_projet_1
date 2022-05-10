@@ -45,5 +45,9 @@ button {
   margin-top: 2rem;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 1440px) {
+  .section-form {
+    width: 50%;
+    margin: 0 auto;
+  }
 }
