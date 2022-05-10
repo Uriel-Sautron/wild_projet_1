@@ -1,7 +1,7 @@
 [
   {
     "title": "Rhum arrangé ananas",
-    "img": "",
+    "img": "../assets/images/rhum/ananas.jpg",
     "ingredients": [
       "1 Ananas victoria",
       "2 litres de rhum blanc",
@@ -20,7 +20,7 @@
 
   {
     "title": "Rhum arrangé aux épices",
-    "img": "",
+    "img": "../assets/images/rhum/epices.jpg",
     "ingredients": [
       "5 bâtons de cannelle séchée",
       "20 grains de poivre noir",
@@ -43,7 +43,7 @@
 
   {
     "title": "Rhum arrangé banane",
-    "img": "",
+    "img": "../assets/images/rhum/bananes.jpg",
     "ingredients": [
       "4 Bananes",
       "2 litres de rhum blanc",
@@ -61,7 +61,7 @@
 
   {
     "title": "Rhum arrangé bibasse",
-    "img": "",
+    "img": "../assets/images/rhum/bibasse.jpg",
     "ingredients": [
       " 20 Bibasses",
       "2 litres de rhum blanc",
@@ -79,7 +79,7 @@
 
   {
     "title": "Rhum arrangé café vanille",
-    "img": "",
+    "img": "../assets/images/rhum/cafe.jpg",
     "ingredients": [
       "60 grains de Café Bourbon pointu",
       "2 gousses de vanille",
@@ -98,7 +98,7 @@
 
   {
     "title": "Rhum arrangé citron gingembre",
-    "img": "",
+    "img": "../assets/images/rhum/citron-gingembre.webp",
     "ingredients": [
       "4 citrons verts. Citronnier 4 Saisons",
       "200 gr de gingembre frais",
@@ -118,7 +118,7 @@
 
   {
     "title": "Rhum arrangé fraise vanille",
-    "img": "",
+    "img": "../assets/images/rhum/fraise.webp",
     "ingredients": [
       "500 gr de Fraises",
       "2 gousses de vanille",
@@ -139,7 +139,7 @@
 
   {
     "title": "Rhum arrangé fruits de la passion",
-    "img": "",
+    "img": "../assets/images/rhum/fruit-de-la-passion.jpg",
     "ingredients": [
       "5 fruits de la passion",
       "2 litres de rhum blanc",
@@ -159,7 +159,7 @@
 
   {
     "title": "Rhum arrangé letchi",
-    "img": "",
+    "img": "../assets/images/rhum/letchis.jpg",
     "ingredients": [
       " 1 trentaine de Letchis",
       "2 litres de rhum blanc",
@@ -178,7 +178,7 @@
 
   {
     "title": "Rhum arrangé mangue",
-    "img": "",
+    "img": "../assets/images/rhum/mangues.jpg",
     "ingredients": [
       "4 Mangues",
       "2 litres de rhum blanc",
@@ -196,7 +196,7 @@
 
   {
     "title": "Rhum arrangé menthe",
-    "img": "",
+    "img": "../assets/images/rhum/menthe.jpg",
     "ingredients": [
       "30 feuilles de menthe fraîche",
       "2 litres de rhum blanc",
@@ -214,7 +214,7 @@
 
   {
     "title": "Rhum arrangé Noix de coco",
-    "img": "",
+    "img": "../assets/images/rhum/coco.jpg",
     "ingredients": [
       " Une noix de coco",
       "2 litres de rhum blanc",
@@ -234,7 +234,7 @@
 
   {
     "title": "Rhum arrangé pêche",
-    "img": "",
+    "img": "../assets/images/rhum/peche.webp",
     "ingredients": [
       "6 Pêches",
       "2 litres de rhum blanc",
@@ -252,7 +252,7 @@
 
   {
     "title": "Rhum arrangé piment",
-    "img": "",
+    "img": "../assets/images/rhum/piments.jpg",
     "ingredients": ["8 piments ( + ou - ) Piments", "2 litres de rhum blanc"],
     "preparation": [
       "Lavez les piments",
@@ -266,7 +266,7 @@
 
   {
     "title": "Rhum arrangé Pitahaya ou pitaya",
-    "img": "",
+    "img": "../assets/images/rhum/pitaya.webp",
     "ingredients": [
       "3 Pitahaya ou pitaya",
       "2 litres de rhum blanc",
@@ -284,7 +284,7 @@
 
   {
     "title": "Rhum arrangé poire pomme vanille",
-    "img": "",
+    "img": "../assets/images/rhum/pomme-poire.jpg",
     "ingredients": [
       "6 poires",
       "3 pommes",
@@ -306,7 +306,7 @@
 
   {
     "title": "Rhum arrangé tamarin",
-    "img": "",
+    "img": "../assets/images/rhum/tamarin.jpg",
     "ingredients": [
       "1 kg de Tamarin murs",
       "2 litres de rhum blanc",
@@ -325,7 +325,7 @@
 
   {
     "title": "Rhum arrangé vanille",
-    "img": "",
+    "img": "../assets/images/rhum/vanille.jpg",
     "ingredients": [
       "5 gousses de vanille",
       "2 litres de rhum blanc",
@@ -343,7 +343,7 @@
 
   {
     "title": "Rhum arrangé grenade",
-    "img": "",
+    "img": "../assets/images/rhum/grenades.webp",
     "ingredients": [
       "4 grenades",
       "2 litres de rhum blanc",

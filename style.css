@@ -17,6 +17,7 @@ nav {
   padding: 0.5rem 1rem;
   background-color: rgba(2, 56, 123, 0.8);
   width: 100%;
+  z-index: 6;
 }
 
 a {
@@ -48,6 +49,7 @@ section:not(.banner) {
   left: 0;
   width: 100%;
   height: 10rem;
+  z-index: 4;
 }
 
 .banner > img {
@@ -68,6 +70,31 @@ section:not(.banner) {
   font-weight: bold;
   color: #fff;
   text-shadow: 0 0 10px #000;
+}
+
+/* Card */
+.card {
+  background-color: #fff;
+  border-radius: 5px;
+  height: auto;
+}
+
+.card-padding {
+  padding: 1rem;
+}
+
+.card:not(:first-child) {
+  margin-top: 1rem;
+}
+
+.card > h2 {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.card > p {
+  margin-top: 1rem;
+  text-align: justify;
 }
 
 /* Footer */

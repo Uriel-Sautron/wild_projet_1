@@ -4,7 +4,7 @@ ul {
 }
 
 /* Section Cards */
-.card {
+/* .card {
   background-color: #fff;
   border-radius: 5px;
   padding: 1rem;
@@ -23,7 +23,7 @@ ul {
 .card > p {
   margin-top: 1rem;
   text-align: justify;
-}
+} */
 
 /* Media Queries */
 
