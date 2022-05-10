@@ -21,6 +21,7 @@ const displayCardRhumRecipe = (recipe) => {
   //Create div cardContent and add in card
   const cardContent = document.createElement("div");
   cardContent.classList.add("card-padding");
+  cardContent.classList.add("card-rhum-body");
   card.appendChild(cardContent);
 
   //Create h2 cardTitle and add in cardContent
