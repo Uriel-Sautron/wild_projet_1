@@ -1,7 +1,7 @@
 [
   {
     "title": "Cari bichiques",
-    "img": "",
+    "img": "../assets/images/dish/bichiques.jpg",
     "category": "Cari",
     "ingredients": [
       "1,250 kg de bichiques",
@@ -29,7 +29,7 @@
   },
   {
     "title": "Cari de boeuf",
-    "img": "",
+    "img": "../assets/images/dish/boeuf.jpg",
     "category": "Cari",
     "ingredients": [
       "1,250 kg de de bœuf",
@@ -59,7 +59,7 @@
   },
   {
     "title": "Cari canard",
-    "img": "",
+    "img": "../assets/images/dish/canard.jpg",
     "category": "Cari",
     "ingredients": [
       "1 canard",
@@ -89,7 +89,7 @@
   },
   {
     "title": "Cari oeufs",
-    "img": "",
+    "img": "../assets/images/dish/oeufs.jpg",
     "category": "Cari",
     "ingredients": [
       "4 oeufs",
@@ -116,7 +116,7 @@
   },
   {
     "title": "Cari Poulet",
-    "img": "",
+    "img": "../assets/images/dish/poulet.jpg",
     "category": "Cari",
     "ingredients": [
       "1 poulet Fermier",
@@ -144,7 +144,7 @@
   },
   {
     "title": "Cari Thon",
-    "img": "",
+    "img": "../assets/images/dish/thon.jpg",
     "category": "Cari",
     "ingredients": [
       "1,2 kg de thon",
@@ -182,7 +182,7 @@
   },
   {
     "title": "Canard à la vanille",
-    "img": "",
+    "img": "../assets/images/dish/canard_vanille.jpg",
     "category": "Cari",
     "ingredients": [
       "1 canard",
@@ -213,7 +213,7 @@
   },
   {
     "title": "Emincé de Porc à l'ananas",
-    "img": "",
+    "img": "../assets/images/dish/saute_porc_ananas.jpg",
     "category": "Sauté",
     "ingredients": [
       "800 gr de filet de porc",
@@ -246,7 +246,7 @@
   },
   {
     "title": "Gratin de pâtisson créole",
-    "img": "",
+    "img": "../assets/images/dish/patisson.webp",
     "category": "Gratin",
     "ingredients": [
       "1 kg de Pâtisson",
@@ -287,7 +287,7 @@
   },
   {
     "title": "Rougail morue",
-    "img": "",
+    "img": "../assets/images/dish/rougail_morue.jpg",
     "category": "Rougail",
     "ingredients": [
       "1 kg de morue séchée",
@@ -324,7 +324,7 @@
   },
   {
     "title": "Thon massalé",
-    "img": "",
+    "img": "../assets/images/dish/thon-massale.webp",
     "category": "Cari",
     "ingredients": [
       "1,5 kg de thon",
@@ -352,7 +352,7 @@
   },
   {
     "title": "Rougail saucisse",
-    "img": "",
+    "img": "../assets/images/dish/saucisses.webp",
     "category": "Rougail",
     "ingredients": [
       "6 saucisses de porc",
