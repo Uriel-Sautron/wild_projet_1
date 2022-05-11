@@ -3,27 +3,9 @@ ul {
   margin-left: 2rem;
 }
 
-/* Section Cards */
-/* .card {
-  background-color: #fff;
-  border-radius: 5px;
-  padding: 1rem;
-  height: auto;
+.card > img {
+  height: 15rem;
 }
-
-.card:not(:first-child) {
-  margin-top: 1rem;
-}
-
-.card > h2 {
-  font-size: 1.5em;
-  font-weight: bold;
-}
-
-.card > p {
-  margin-top: 1rem;
-  text-align: justify;
-} */
 
 /* Media Queries */
 
@@ -31,6 +13,21 @@ ul {
   /* Section Description */
   .description {
     margin-top: 0;
+  }
+
+  .card {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+  .card > img,
+  .card > h2 {
+    width: 50%;
+  }
+
+  .card > h2 {
+    text-align: center;
   }
 }
 
