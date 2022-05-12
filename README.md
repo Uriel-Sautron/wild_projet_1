@@ -15,3 +15,5 @@ Le but de ceux projet étant de mettre en pratique ceux qu'on a vue depuis le de
 - JavaScript
 
 ## Liens
+
+https://uriel-sautron.github.io/wild_projet_1/

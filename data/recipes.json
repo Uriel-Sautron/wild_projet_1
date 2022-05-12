@@ -25,7 +25,7 @@
       " A la fin de la cuisson, il ne doit pas y avoir trop de sauce",
       "Servez chaud"
     ],
-    "numberofPerson": 4
+    "ratio": "4 Personnes"
   },
   {
     "title": "Cari de boeuf",
@@ -55,7 +55,7 @@
       "Il faut que la sauce soit onctueuse",
       "Servez chaud"
     ],
-    "numberofPerson": 4
+    "ratio": "4 Personnes"
   },
   {
     "title": "Cari canard",
@@ -85,7 +85,7 @@
       "Rajoutez de l'eau en cours de cuisson si nécessaire",
       "Servez chaud"
     ],
-    "numberofPerson": 4
+    "ratio": "4 Personnes"
   },
   {
     "title": "Cari oeufs",
@@ -112,7 +112,7 @@
       "Ajoutez les oeufs durs coupés en deux et faire mijoter une dizaine de minutes en remuant régulièrement et doucement",
       "Servez chaud"
     ],
-    "numberofPerson": 4
+    "ratio": "4 Personnes"
   },
   {
     "title": "Cari Poulet",
@@ -140,7 +140,7 @@
       "En fin de cuisson 45 minutes environ il doit rester un fond de sauce",
       "Servez chaud"
     ],
-    "numberofPerson": 4
+    "ratio": "4 Personnes"
   },
   {
     "title": "Cari Thon",
@@ -178,7 +178,7 @@
 
       "Servez chaud"
     ],
-    "numberofPerson": 4
+    "ratio": "4 Personnes"
   },
   {
     "title": "Canard à la vanille",
@@ -209,11 +209,11 @@
       "Couvrez la marmite et laissez 1h15 a feu doux jusqu'à obtention d'une sauce onctueuse",
       "Servir chaud"
     ],
-    "numberofPerson": 4
+    "ratio": "4 Personnes"
   },
   {
     "title": "Emincé de Porc à l'ananas",
-    "img": "../assets/images/dish/saute_porc_ananas.jpg",
+    "img": "../assets/images/dish/saute-porc-ananas.jpeg",
     "category": "Sauté",
     "ingredients": [
       "800 gr de filet de porc",
@@ -242,7 +242,7 @@
 
       "Garnissez les coques des ananas de votre préparation, servez aussitôt bien chaud"
     ],
-    "numberofPerson": 4
+    "ratio": "4 Personnes"
   },
   {
     "title": "Gratin de pâtisson créole",
@@ -283,11 +283,11 @@
 
       "Servez chaud"
     ],
-    "numberofPerson": 4
+    "ratio": "4 Personnes"
   },
   {
     "title": "Rougail morue",
-    "img": "../assets/images/dish/rougail_morue.jpg",
+    "img": "../assets/images/dish/morue.jpg",
     "category": "Rougail",
     "ingredients": [
       "1 kg de morue séchée",
@@ -320,7 +320,7 @@
       "Mélangez puis laissez cuire le tout pendant 10 minutes à couvert",
       "Servez chaud"
     ],
-    "numberofPerson": 4
+    "ratio": "4 Personnes"
   },
   {
     "title": "Thon massalé",
@@ -348,7 +348,7 @@
       "Ajoutez le thon ainsi qu'un verre d'eau chaude et faites cuire à couvert 15 minutes environs",
       "Il faut que la sauce soit onctueuse"
     ],
-    "numberofPerson": 4
+    "ratio": "4 Personnes"
   },
   {
     "title": "Rougail saucisse",
@@ -377,6 +377,6 @@
       "Laissez mijoter à feu doux pendant 30 minutes environ. Si nécessaire ajoutez de l'eau chaude pendant la cuisson",
       "Servez chaud"
     ],
-    "numberofPerson": 4
+    "ratio": "4 Personnes"
   }
 ]
