@@ -32,11 +32,21 @@ ul {
 }
 
 @media (min-width: 1440px) {
+  .group-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
   .card {
     flex-direction: column;
     width: 35%;
     position: relative;
     overflow: hidden;
+  }
+
+  .card:nth-child(2) {
+    margin-top: 0;
   }
 
   .card > img {
@@ -46,6 +56,15 @@ ul {
     width: 100%;
     height: 100%;
     transition: transform 1s ease-in-out;
+  }
+
+  .card > h2 {
+    z-index: 5;
+    font-weight: bold;
+    color: #fff;
+    text-shadow: 0 0 10px #000;
+    align-self: flex-start;
+    text-align: left;
   }
 
   .img-card-hover {

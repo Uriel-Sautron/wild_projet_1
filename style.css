@@ -166,6 +166,16 @@ footer span {
     right: 1.5rem;
   }
 
+  .banner > h2 {
+    color: #fff;
+    text-transform: uppercase;
+    position: absolute;
+    font-size: 4em;
+    bottom: -3rem;
+    left: 4rem;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+
   /* Footer */
   .fix-navtab {
     display: none;
