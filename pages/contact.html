@@ -14,8 +14,8 @@
     <header>
       <nav>
         <a href="../index.html">
-          <img src="../assets/icons/icon-accueil.png" alt="Icone acceuil" />
-          <span class="nav-text">Acceuil</span>
+          <img src="../assets/icons/icon-accueil.png" alt="Icone Accueil" />
+          <span class="nav-text">Accueil</span>
         </a>
         <a href="./recettes-reunionnaise.html">
           <img
@@ -59,25 +59,45 @@
         <form action="">
           <div class="input-container">
             <label for="name">Votre nom (Obligatoire)</label>
-            <input type="text" name="name" required="required" />
+            <input id="name" type="text" name="name" required="required" />
           </div>
           <div class="input-container">
             <label for="email">Votre email (Obligatoire)</label>
-            <input type="email" name="email" - required="required" />
+            <input id="email" type="email" name="email" required="required" />
           </div>
           <div class="input-container">
             <label for="subject">Sujet</label>
-            <input type="text" name="subject" />
+            <input id="subject" type="text" name="subject" />
           </div>
           <div class="input-container">
-            <label for="message">Votre message</label>
-            <textarea name="message"></textarea>
+            <label for="message">Votre message (Obligatoire)</label>
+            <textarea
+              id="message"
+              name="message"
+              required="required"
+            ></textarea>
           </div>
           <button>Envoyez</button>
         </form>
       </section>
     </main>
     <!-- Main end -->
+
+    <!-- Modal start -->
+    <div id="modal" class="modal hidden" role="dialog">
+      <div class="model-inner">
+        <div class="modal-header">
+          <h3 id="modal-title"></h3>
+          <button class="modal-close" aria-label="Close">&times;</button>
+        </div>
+        <p>
+          Votre message nous permettras de nous améliorer et de vous répondre.
+          En esperant que ce site vous ait été utile et vous ait donner envie de
+          découvrir l'Ile de la Réunion.
+        </p>
+      </div>
+    </div>
+    <!-- Modal end -->
 
     <!-- Footer start -->
     <footer>
@@ -91,6 +111,6 @@
 
     <div class="fix-navtab"></div>
 
-    <script src="index.js" defer></script>
+    <script src="../javascript/contact.js" defer></script>
   </body>
 </html>

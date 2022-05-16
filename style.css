@@ -87,7 +87,7 @@ section:not(.banner) {
 
 .banner > h2 {
   border: none;
-  color: #f5f5f5;
+  color: #fff;
   text-transform: uppercase;
   position: absolute;
   font-size: 3em;
