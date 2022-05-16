@@ -9,6 +9,23 @@ body {
   height: 100vh;
 }
 
+.weather {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+}
+
+.weather-icon {
+  width: 2rem;
+}
+
+.weather > span {
+  color: white;
+}
+
 /* Navbar */
 nav {
   display: flex;
