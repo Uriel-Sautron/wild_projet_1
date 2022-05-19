@@ -5,6 +5,10 @@
   overflow: hidden;
 }
 
+.display-recipes {
+  margin-top: 4rem;
+}
+
 .card-header::after {
   height: 100%;
   width: 160%;
@@ -68,7 +72,7 @@ li {
 }
 
 @media (min-width: 1440px) {
-  .section-recipes {
+  .display-recipes {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-gap: 1rem;

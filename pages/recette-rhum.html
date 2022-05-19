@@ -12,11 +12,7 @@
   <body>
     <!-- Header start -->
     <header>
-      <div class="weather">
-        <img src="" alt="" class="weather-icon" />
-        <span class="weather-temp"></span>
-      </div>
-      <nav>
+      <div class="weather"></div>
       <nav>
         <a href="../index.html">
           <img src="../assets/icons/icon-accueil.png" alt="Icone Accueil" />
@@ -27,7 +23,7 @@
             src="../assets/icons/icon-recette.png"
             alt="Icone livre de recette"
           />
-          <span class="nav-text">Recettes</span>
+          <span class="nav-text">Cuisine</span>
         </a>
         <a href="#">
           <img
@@ -60,7 +56,21 @@
         <h2>Rhum</h2>
       </section>
 
-      <section class="section-recipes"></section>
+      <section class="section-recipes">
+        <div class="title-section">
+          <h2>Qu’est-ce qu’un rhum arrangé ?</h2>
+          <p>
+            Si beaucoup apprécient sa chaleur et son éventail de parfums, peu
+            connaissent la recette du rhum arrangé. L’alcool star de La Réunion
+            provient tout simplement de l’eau-de-vie issue de la fermentation
+            puis de la distillation de la mélasse ou du jus de canne à sucre.
+            Arrangé signifie qu’on lui a rajouté une troisième étape : la
+            macération d’un ingrédient supplémentaire. Fleur, fruit, bois, la
+            seule limite est l’imagination !
+          </p>
+        </div>
+        <div class="display-recipes"></div>
+      </section>
     </main>
     <!-- Main end -->
 
@@ -78,6 +88,5 @@
 
     <script src="../javascript/recipes.js" defer></script>
     <script src="../index.js" defer></script>
-
   </body>
 </html>

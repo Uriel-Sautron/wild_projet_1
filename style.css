@@ -1,6 +1,6 @@
 body {
+  font-family: cursive;
   position: relative;
-  /* height: auto; */
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -25,6 +25,7 @@ body {
 
 .weather > span {
   color: white;
+  margin-left: 0.5rem;
 }
 
 /* Navbar */
@@ -159,7 +160,7 @@ footer {
 }
 
 footer > p {
-  font-size: 0.85rem;
+  font-size: 0.75rem;
   text-align: justify;
 }
 
@@ -221,6 +222,10 @@ footer span {
   /* Footer */
   .fix-navtab {
     display: none;
+  }
+
+  footer > p {
+    font-size: 0.95rem;
   }
 
   .fix-navtab::before {

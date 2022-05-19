@@ -1,12 +1,12 @@
-const sectionRecipes = document.querySelector(".section-recipes");
+const displayRecipesDiv = document.querySelector(".display-recipes");
 
 //Fonction take object recipe and display it in card.
 const displayCardRhumRecipe = (recipe) => {
   const { title, img, ingredients, preparation, ratio } = recipe;
-  //Create div card and add in sectionRecipes
+  //Create div card and add in displayRecipesDiv
   const card = document.createElement("div");
   card.classList.add("card");
-  sectionRecipes.appendChild(card);
+  displayRecipesDiv.appendChild(card);
 
   //Create div cardHeader and add in card
   const cardHeader = document.createElement("div");
